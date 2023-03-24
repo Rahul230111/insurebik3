@@ -1,0 +1,48 @@
+body {
+   background: rgb(0,212,255);
+   background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(141,0,168,1) 100%);
+
+}
+@media screen and (max-width: 600px) {
+   .text1{
+      float: left;
+   }
+ }
+
+#Features{
+   background-image: url("https://stat.overdrive.in/wp-content/odgallery/2018/06/43180__ANI8076.JPG");
+   padding: 150px;
+ background-color: #cccccc;
+ background-position: center;
+ background-size: cover;
+
+}
+
+.text1 {
+   font-size: 70px; 
+   text-align: center;
+   padding-top: 100px;
+   padding-bottom: 100px;
+ 
+color: white;
+font-family: 'Montserrat', sans-serif;
+position: static;
+text-shadow:2px 5px black;
+
+}
+
+.navbar{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-style: unset;
+   font-size: 25px;
+}
+.navbar-brand{
+   font-weight: bolder;
+  
+}
+.d-flex{
+   padding-left: 10px;
+}
+ul{
+   text-align: center;
+}
